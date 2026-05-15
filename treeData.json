@@ -1,0 +1,86 @@
+{
+  "name": "模具库",
+  "type": "root",
+  "children": [
+    {
+      "name": "E平台",
+      "type": "folder",
+      "children": [
+        {
+          "name": "E29",
+          "type": "folder",
+          "children": [
+            {
+              "name": "E29_1#模",
+              "type": "folder",
+              "children": [
+                { "name": "前机舱", "type": "mold", "moldId": "E291_FRONT" },
+                { "name": "后地板", "type": "mold", "moldId": "E291_REAR" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "F平台",
+      "type": "folder",
+      "children": [
+        {
+          "name": "F18",
+          "type": "folder",
+          "children": [
+            {
+              "name": "F181#模",
+              "type": "folder",
+              "children": [
+                { "name": "前机舱", "type": "mold", "moldId": "F181_FRONT" },
+                { "name": "后地板", "type": "mold", "moldId": "F181_REAR" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "G平台",
+      "type": "folder",
+      "children": [
+        {
+          "name": "G20",
+          "type": "folder",
+          "children": [
+            {
+              "name": "G201#模",
+              "type": "folder",
+              "children": [
+                { "name": "前机舱", "type": "mold", "moldId": "G201_FRONT" },
+                { "name": "后地板", "type": "mold", "moldId": "G201_REAR" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H平台",
+      "type": "folder",
+      "children": [
+        {
+          "name": "H15",
+          "type": "folder",
+          "children": [
+            {
+              "name": "H151#模",
+              "type": "folder",
+              "children": [
+                { "name": "前机舱", "type": "mold", "moldId": "H151_FRONT" },
+                { "name": "后地板", "type": "mold", "moldId": "H151_REAR" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

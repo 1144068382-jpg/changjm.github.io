@@ -1,0 +1,90 @@
+{
+  "E291_FRONT": {
+    "name": "E291#模前机舱",
+    "materials": {
+      "cavity_fixed": "H13",
+      "sprue_bush": "CPM 10V",
+      "cooling_fixed": "3D打印 MS1",
+      "core_movable": "Dievar",
+      "sliders": "氮化钢",
+      "ejector_plate": "Cr12MoV"
+    }
+  },
+  "E291_REAR": {
+    "name": "E291#模后地板",
+    "materials": {
+      "cavity_fixed": "H13改进型",
+      "sprue_bush": "DHA™-GIGA",
+      "cooling_fixed": "3D打印 MS1",
+      "core_movable": "Dievar",
+      "sliders": "SKD61+渗氮",
+      "ejector_plate": "Cr12MoV"
+    }
+  },
+  "F181_FRONT": {
+    "name": "F181#模前机舱",
+    "materials": {
+      "cavity_fixed": "H13",
+      "sprue_bush": "CPM 10V",
+      "cooling_fixed": "3D打印 MS1",
+      "core_movable": "Dievar",
+      "sliders": "氮化钢",
+      "ejector_plate": "Cr12MoV"
+    }
+  },
+  "F181_REAR": {
+    "name": "F181#模后地板",
+    "materials": {
+      "cavity_fixed": "H13改进型",
+      "sprue_bush": "DHA™-GIGA",
+      "cooling_fixed": "3D打印 MS1",
+      "core_movable": "Dievar",
+      "sliders": "SKD61+渗氮",
+      "ejector_plate": "Cr12MoV"
+    }
+  },
+  "G201_FRONT": {
+    "name": "G201#模前机舱",
+    "materials": {
+      "cavity_fixed": "H13",
+      "sprue_bush": "CPM 10V",
+      "cooling_fixed": "3D打印 MS1",
+      "core_movable": "Dievar",
+      "sliders": "氮化钢",
+      "ejector_plate": "Cr12MoV"
+    }
+  },
+  "G201_REAR": {
+    "name": "G201#模后地板",
+    "materials": {
+      "cavity_fixed": "H13改进型",
+      "sprue_bush": "DHA™-GIGA",
+      "cooling_fixed": "3D打印 MS1",
+      "core_movable": "Dievar",
+      "sliders": "SKD61+渗氮",
+      "ejector_plate": "Cr12MoV"
+    }
+  },
+  "H151_FRONT": {
+    "name": "H151#模前机舱",
+    "materials": {
+      "cavity_fixed": "H13",
+      "sprue_bush": "CPM 10V",
+      "cooling_fixed": "3D打印 MS1",
+      "core_movable": "Dievar",
+      "sliders": "氮化钢",
+      "ejector_plate": "Cr12MoV"
+    }
+  },
+  "H151_REAR": {
+    "name": "H151#模后地板",
+    "materials": {
+      "cavity_fixed": "H13改进型",
+      "sprue_bush": "DHA™-GIGA",
+      "cooling_fixed": "3D打印 MS1",
+      "core_movable": "Dievar",
+      "sliders": "SKD61+渗氮",
+      "ejector_plate": "Cr12MoV"
+    }
+  }
+}
